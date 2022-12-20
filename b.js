@@ -116,7 +116,7 @@ function Button(){
     let time4=document.getElementById("time4");
 
     if(time1.checked==true||time2.checked==true||time3.checked==true||time4.checked==true){
-        alert("THANK YOU1.\nTRAIN NO:.\nA PLEASE CHECK YOUR EMAIL.\#VISIT SRI LANKA!");
+        alert("THANK YOU!.\nTRAIN NO:0000011. UDARATA MANIKE \nA PLEASE CHECK YOUR EMAIL.\n#VISIT SRI LANKA!");
     }
     else{
         alert("Incomplete order!\nPlese try Again!")
