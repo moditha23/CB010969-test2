@@ -119,7 +119,7 @@ function Button(){
         alert("THANK YOU!.\nTRAIN NO:0000011. UDARATA MANIKE \nA PLEASE CHECK YOUR EMAIL.\n#VISIT SRI LANKA!");
     }
     else{
-        alert("Incomplete order!\nPlese try Again!")
+        alert("ERROR!!!/nPlese try Again!")
     }
     
 }
