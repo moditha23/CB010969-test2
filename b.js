@@ -116,7 +116,7 @@ function Button(){
     let time4=document.getElementById("time4");
 
     if(time1.checked==true||time2.checked==true||time3.checked==true||time4.checked==true){
-        alert("Thank you for your custom reservation.\nYour train number is:TN0000699.\nA detailed bill will send to your Email.\nHave a nice day!");
+        alert("THANK YOU1.\nTRAIN NO:.\nA PLEASE CHECK YOUR EMAIL.\#VISIT SRI LANKA!");
     }
     else{
         alert("Incomplete order!\nPlese try Again!")
